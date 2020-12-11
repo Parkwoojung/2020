@@ -31,7 +31,7 @@ font-size: 20px;
 .dot{
     width: 320px;
     height: 200px;
-    background-color: #bd2c32 ;
+    background-color: #810004 ;
     color: white;
     font-size: 13px;
  float: left;
@@ -45,7 +45,7 @@ font-size: 20px;
 .dpt{
     width: 320px;
     height: 200px;
-    background-color:#8a2c32;
+    background-color:#bb434b;
     color: white;
     font-size: 13px;
  float: left;
@@ -59,7 +59,7 @@ font-size: 20px;
 .dat{
     width: 320px;
     height: 200px;
-    background-color:#5d0e0e;
+    background-color:orange;
     color: white;
     font-size: 13px;
  float: left;

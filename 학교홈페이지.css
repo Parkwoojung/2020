@@ -1,8 +1,25 @@
+.pt{
+    position: relative; top: 20px;
+}
+.it{
+    text-align: center;
+    padding: 20px;
+    font-size: 17px;
+
+}
+
+button{
+    position: relative; right: -1350px;
+    position: relative; top: -60px;
+}
+
 header {
 text-align: center;
 position: relative; bottom: -50px;
 font-size: 20px;
 }
+
+     
 
 .dot-wrap {
         position: relative;
@@ -13,8 +30,8 @@ font-size: 20px;
     }
 .dot{
     width: 320px;
-    height: 220px;
-    background-color:#2D3E98;
+    height: 200px;
+    background-color: #bd2c32 ;
     color: white;
     font-size: 13px;
  float: left;
@@ -27,7 +44,8 @@ font-size: 20px;
 
 .dpt{
     width: 320px;
-    background-color:#05055c;
+    height: 200px;
+    background-color:#8a2c32;
     color: white;
     font-size: 13px;
  float: left;
@@ -40,8 +58,8 @@ font-size: 20px;
 
 .dat{
     width: 320px;
-    height: 220px;
-    background-color:#2D3E98;
+    height: 200px;
+    background-color:#5d0e0e;
     color: white;
     font-size: 13px;
  float: left;
@@ -56,14 +74,16 @@ font-size: 20px;
     padding-bottom: -5px;
     border-bottom: 0.6px solid rgb(185, 182, 182);
     position:relative ; bottom: -100px;
-    margin: 20px;
+    margin: 30px;
+    
 
   
 }
 
-.a{
-   
+.ut{
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    font-size: 18px;
 }
-
 
 
